@@ -1,6 +1,6 @@
 # PCFSF Results Found file
 # Format (one result per line, comma separated):
-# Blockchain,Address,Balance,Status
+# Blockchain,Address,Balance,Balance
 # E.g.  Eth,1262676262552,362.37,56
 Bitcoin,1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa,0.00000000,0.00
 Ethereum,0x742d35Cc6634C0532925a3b844Bc454e4438f44e,362.37,56.00
